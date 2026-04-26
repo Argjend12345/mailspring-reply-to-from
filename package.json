@@ -1,0 +1,14 @@
+{
+  "name": "reply-to-field",
+  "version": "1.1.0",
+  "description": "Adds a Reply-To button to the Mailspring composer toolbar",
+  "license": "MIT",
+  "main": "./lib/main",
+  "windowTypes": {
+    "default": true,
+    "composer": true
+  },
+  "engines": {
+    "mailspring": ">=1.0.0"
+  }
+}
