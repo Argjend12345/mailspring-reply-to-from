@@ -11,6 +11,7 @@ Mailspring has no built-in UI for setting a `Reply-To` header when composing ema
 1. __[Grab the latest release](../../releases)__
 2. Extract the `zip` somewhere
 3. From the Mailspring menu, select `Developer > Install a Plugin...`. In the dialog, choose the folder that was extracted from the zip file to install the plugin
+4. Reopen Mailspring
 
 ---
 
